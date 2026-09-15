@@ -89,48 +89,6 @@ Amounts and quantity can be summed across fact rows. Prices and discount fractio
 
 All retained order statuses are loaded, including any cancelled or returned statuses in the source. Filter by a defined business policy before calling totals recognized revenue. Cost uses the current product record, not historical cost. Missing costs represented as zero can overstate margin. The script strips `JOD` text but does not implement currency conversion or a currency dimension; combine values only when their currency is consistent.
 
-## How to run
-
-Prerequisites: a PostgreSQL server, `psql` on your PATH, and a database role allowed to create schemas, tables, and procedures. The source CSVs are supplied separately; see [the data contract](data/README.md).
-
-Run commands from the repository root. Replace `postgres` if you use another database role; PostgreSQL can prompt for a password.
-
-### 1. Create a dedicated database and install the objects
-
-```powershell
-createdb -h localhost -U postgres retail_dw
-psql -h localhost -U postgres -d retail_dw -v ON_ERROR_STOP=1 --single-transaction -f sql/retail_data_warehouse.sql
-```
-
-**Setup drops the existing Silver and Gold schemas with `CASCADE`.** Run it once in a dedicated database. Its Bronze `COPY` examples and refresh call are commented out, so a fresh setup does not load the warehouse. Its final validation queries initially return empty data.
-
-### 2. Load the six CSVs into Bronze
-
-Place the files named in `data/README.md` in `data/`, then run:
-
-```powershell
-psql -h localhost -U postgres -d retail_dw -v ON_ERROR_STOP=1 --single-transaction -f sql/load_bronze.psql
-```
-
-This helper replaces all six Bronze tables in one transaction and uses client-side `\copy`, so PostgreSQL reads files from your machine. The original script's `COPY` examples use server-side paths instead. CSV headers are skipped; columns must match the declared order.
-
-### 3. Refresh and validate
-
-```powershell
-psql -h localhost -U postgres -d retail_dw -v ON_ERROR_STOP=1 -c "CALL public.refresh_warehouse();"
-psql -h localhost -U postgres -d retail_dw -v ON_ERROR_STOP=1 -f sql/quality_checks.sql
-```
-
-For future refreshes from unchanged Bronze data, repeat step 3 only. When source files change, repeat steps 2 and 3. Do not repeatedly append the same CSVs or rerun setup as a refresh strategy.
-
-## Quality checks
-
-The original script includes checks for selected Bronze counts, payment methods, phone/email patterns, discounts, positive quantities, and duplicate fact business keys. [Additional read-only checks](sql/quality_checks.sql) cover all layer counts, fact-grain uniqueness, Silver-to-Gold line reconciliation, dimension references, measure formulas, and fallback exposure.
-
-Violation queries should return zero rows. Counts and missing-value summaries require interpretation; an empty warehouse is not evidence of a successful data load. Bronze-to-Silver reductions can be intentional because of deduplication and relationship filtering. Inspect missing dates, employees, prices, and costs before analysis.
-
-**Verification scope:** repository structure, SQL preservation, and documentation consistency were checked locally. No PostgreSQL execution or source-data reconciliation was performed in this packaging task.
-
 ## Technologies and skills demonstrated
 
 - **PostgreSQL and SQL:** schemas, typed tables, identity keys, constraints, indexes, joins, CTEs, window functions, regular expressions, and date generation.
