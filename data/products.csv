@@ -1,0 +1,138 @@
+product_id,product_name,category,subcategory,unit_price,unit_cost,supplier,active
+1,Enter Headphone,ELECTRONICS,Headphones,585.67,277.44,Skinner-Taylor,1
+2,Take Headphones,electronics,Headphones,190.97,-,Murray-Smith,1
+3,Another Headphones,electronics,Headphones,390.52,,"BROWN, WILSON AND BOWERS",FALSE
+4,Can Headphones,ELECTRONICS,Headphones,546.12,275.49,Clark Ltd,1
+5,Structure Smartphones,Electronics,Smartphones,407.25,NULL,Spencer-Garcia,1
+6,Inside Smartphone,Electronics,Smartphones,46.39,34.76,Hines-Davis,TRUE
+7,Color Smartphones  ,electronics,Smartphones,152.65,94.87,Black-Stephens,
+8,Nation Smartphones,Electronics,Smartphones,307.70 JOD,148.46,Burnett Ltd,FALSE
+9,Hit Smartphones,ELECTRONICS,Smartphones,178.19,121.53,Rodriguez-Watkins,TRUE
+10,Trouble Laptop,electronics,Laptops,28.04,-,"Rodriguez, Cooper and Brown",TRUE
+11,Become Laptops,electronics,Laptops,$489.65,239.86,Romero Group,
+12,Local Laptop,Electronics,Laptops,214.91,108.53,Wright Group,TRUE
+13,Seem Laptops,Electronic,Laptops,186.29,125.89,Cook Inc,0
+14,Tax Laptops,electronics,Laptops,429.63,,Ward-Schmidt,Yes
+15,Fact Laptops,Electronics,Laptops,81.29,37.32,Evans-Owen,Yes
+16,Continue Charger,electronics,Chargers,148.16,73.67,padilla inc,No
+17, Adult Chargers ,ELECTRONICS,Chargers,185.99,NULL,"Graham, Bailey and Villarreal",FALSE
+18,Require Chargers,Electronics,Chargers,128.87,85.56,Griffin-Warner,No
+19,Pick Chargers,electronics,Chargers,67.77,47.37,Crawford-Harris,No
+20,Option Charger,electronics,Chargers,110.76,72.79,Cook Ltd,1
+21,Suggest Smart Watche,Electronic,Smart Watches,14.38,9.24,Lawson and Sons,
+22,Test Smart Watches,ELECTRONICS,Smart Watches,36.29,27.20,WEEKS-MASSEY,Yes
+23, Visit Smart Watches ,electronics,Smart Watches,68.95,36.18,Kim-Hernandez,TRUE
+24,Head Smart Watches,ELECTRONICS,Smart Watches,360.88,252.87,"Brown, Allen and Taylor",FALSE
+25,Too Smart Watches,ELECTRONICS,Smart Watches,253.88,120.33,Smith-Brown,Yes
+26,Exactly Smart Watche,electronics,Smart Watches,264.67,155.13,Perry-Garcia,TRUE
+27,Give Speakers,Electronic,Speakers,112.66,83.70,"Lawrence, Fischer and Pope",0
+28,Apply Speaker,electronics,Speakers,222.75,,Chapman-Estrada,
+29,Capital Speakers,Electronic,Speakers,181.96,120.19,Johnson-Curry,No
+30,Everybody Speaker,Electronics,Speakers,$43.65,22.50,"Young, Tate and Arnold",0
+31,  Tend Speakers,ELECTRONICS,Speakers,$71.76,53.41,"HART, GRAVES AND ZIMMERMAN",No
+32,Same Snack,groceries,Snacks,105.62,$52.38,Andrews-Edwards,TRUE
+33,Region Snack,groceries,Snacks,407.76,217.65,"Jones, Mueller and Williams",No
+34, Popular Snacks ,Grocery ,Snacks,220.10,144.71,"shaw, morton and evans",TRUE
+35,Then Snacks,Grocery,Snacks,152.88,78.58,"Underwood, Noble and Foster",
+36,Police Snacks,Grocery,Snacks,19.30,10.22,"FRITZ, FOWLER AND WONG",
+37,Decide Snack,Grocery ,Snacks,241.65,176.07,garza-jennings,1
+38,Teach Beverages,groceries,Beverages,454.80,247.17,Reyes-Hawkins,No
+39,Final Beverage,Grocery ,Beverages,253.25,151.31 JOD,Jenkins Group,
+40,Bit Beverage,groceries,Beverages,199.53,133.30,Robinson LLC,No
+41, Appear Beverage ,Grocery ,Beverages,191.67,87.38,Castillo-Adams,0
+42, Early Beverages ,Grocery,Beverages,$91.53,54.42,Gill Group,FALSE
+43,Cover Dairy,groceries,Dairy,330.60 JOD,201.94,Mclaughlin PLC,0
+44,Relationship Dairy,Grocery ,Dairy,106.04,80.06,"Larson, Aguilar and Barr",0
+45,Popular Dairy,groceries,Dairy,$415.91,278.24,Roman-Jones,No
+46,Test Dairy,Grocery,Dairy,136.73,69.90,Martin-Jordan,
+47,Recent Dairy,groceries,Dairy,627.32,$286.57,Johnson Group,TRUE
+48,Approach Dairy,groceries,Dairy,23.10,$15.02,"MURRAY, STRONG AND RICHARD",0
+49,Born Bakery,GROCERY,Bakery,206.38,156.54,Jenkins and Sons,
+50,Recent Bakery,Grocery ,Bakery,397.99,248.56,"Hopkins, Mccoy and Guerrero",Yes
+51,Event Bakery,groceries,Bakery,286.54 JOD,180.88 JOD,Atkinson PLC,
+52,Yet Bakery,Grocery,Bakery,171.01,102.05,Young Ltd,TRUE
+53,Science Canned Goods,Grocery ,Canned Goods,37.16,24.94,"Duncan, Larson and Dyer",TRUE
+54,State Canned Goods,GROCERY,Canned Goods,89.36,52.11,"west, thomas and rodriguez",Yes
+55,Light Canned Goods  ,groceries,Canned Goods,216.25,124.34,Simon PLC,Yes
+56,Most Canned Goods,Grocery,Canned Goods,31.92,,"Matthews, Roberts and Stanley",0
+57,  Allow Canned Goods,groceries,Canned Goods,213.11,105.72 JOD,waller group,Yes
+58,Wall Cookware,Home and Kitchen,Cookware,109.02,81.79,Torres-Taylor,Yes
+59,Son Cookware,Home and Kitchen,Cookware,169.88,108.46,Hayes LLC,
+60,Nearly Cookware,Home & Kitchen,Cookware,,71.86,"Mclaughlin, Hall and Mcgrath",No
+61,Movement Cookware,Home and Kitchen,Cookware,101.60 JOD,NaN,Kim-Smith,FALSE
+62, Consider Cookware ,Home and Kitchen,Cookware,205.40,98.16,Cain LLC,TRUE
+63, Now Small Appliances ,Home and Kitchen,Small Appliances,575.86,297.45,BARNES LLC,
+64,Material Small Appliance,Home & Kitchen,Small Appliances,265.50,$167.35,"Davis, Kirby and Wilkinson",0
+65,Husband Small Appliances,home & kitchen,Small Appliances,308.91,157.35,"Miller, Larson and Davis",Yes
+66,Raise Small Appliance,home & kitchen,Small Appliances,231.00,162.44,"Miller, Moore and Macdonald",0
+67,Represent Small Appliance,Home & Kitchen,Small Appliances,291.96,NULL,"Nelson, Martin and Santiago",Yes
+68,Opportunity Small Appliances,Home & Kitchen,Small Appliances,304.43 JOD,142.20,"Hernandez, Barber and Myers",No
+69,Yes Furniture,home & kitchen,Furniture,175.49,93.08,"Conrad, Woods and Reid",
+70,Example Furniture,Home and Kitchen,Furniture,379.91,252.17,Chapman and Sons,1
+71,Sell Furniture,home & kitchen,Furniture,374.89,270.73,Green Inc,Yes
+72,Street Furniture,home & kitchen,Furniture,$404.50,262.04,"Henderson, Gomez and Williams",1
+73,We Decor,home & kitchen,Decor,331.02,$209.92,"May, Thompson and Mitchell",No
+74,Wall Decor,Home & Kitchen,Decor,34.31,21.41,"Tran, Walker and Sharp",FALSE
+75,  Health Decor,Home & Kitchen,Decor,347.56,187.06,Maxwell Group,TRUE
+76,Partner Decor,Home & Kitchen,Decor,383.30,$205.94,"Santiago, Sanders and Carter",TRUE
+77,Answer Men's Wear,Clothes,Men's Wear,101.15,61.49,"Howe, Miles and Campbell",FALSE
+78,Poor Men's Wear,CLOTHING,Men's Wear,121.77,74.07,Reyes-Wright,Yes
+79,  Evidence Men's Wear,Clothes,Men's Wear,210.80,$116.35,"Patterson, Baker and Hunt",
+80,Civil Men's Wear,Clothes,Men's Wear,144.45,93.05,Wallace and Sons,FALSE
+81,Option Men's Wear,Clothes,Men's Wear,121.47,82.51,Garcia-Thomas,Yes
+82,Worker Men's Wear,Clothing,Men's Wear,244.20,115.61,Carpenter-Sanchez,1
+83,Professor Women's Wear,Clothes,Women's Wear,319.19,218.78,Hill-Payne,
+84,A Women's Wear,clothing,Women's Wear,455.31,250.19,"Ponce, Choi and Osborne",
+85,Exactly Women's Wear,CLOTHING,Women's Wear,8.08,4.46,"Ross, Horton and Perez",0
+86,Analysis Women's Wear,Clothes,Women's Wear,$164.39,122.65,Taylor-Green,FALSE
+87,Media Kids' Wear,clothing,Kids' Wear,262.59,153.58,Ewing PLC,0
+88,Light Kids' Wear,clothing,Kids' Wear,238.01,130.05,"Johnston, Coleman and Hanson",
+89,At Kids' Wear,CLOTHING,Kids' Wear,403.36,$193.46,Evans and Sons,TRUE
+90,Themselves Kids' Wear,clothing,Kids' Wear,56.52,26.08,Willis Ltd,1
+91,Energy Kids' Wear,clothing,Kids' Wear,$243.25,118.87,Guerrero-Benitez,TRUE
+92,Push Kids' Wear,clothing,Kids' Wear,339.88,206.50,Lutz and Sons,FALSE
+93,Send Footwear,clothing,Footwear,$345.11,183.99,Rodriguez-Lewis,TRUE
+94,Serve Footwear,Clothes,Footwear,389.50,194.42,Kline-Peterson,1
+95,Energy Footwear,CLOTHING,Footwear,545.43,270.57,Hull LLC,0
+96,Only Footwear,clothing,Footwear,$84.49,39.06,"Davis, Cook and Greer",
+97,Age Footwear,CLOTHING,Footwear,369.73,212.31,ward llc,
+98,Social Skincare,BEAUTY,Skincare,243.42,none,Simpson-Baker,Yes
+99,Practice Skincare,Beauty,Skincare,140.32,106.54,Patterson Ltd,0
+100,Almost Skincare,BEAUTY,Skincare,249.16,181.12,Terry LLC,1
+101,Ahead Skincare,beauty,Skincare,95.60,45.93,"Butler, Bruce and Harrison",0
+102,Sit Haircare,beauty,Haircare,169.19,125.66,Mosley-Velazquez,1
+103,Attention Haircare,BEAUTY,Haircare,244.50,122.08,"Martinez, Green and Medina",FALSE
+104,Some Haircare,Beauty,Haircare,98.77,60.46,"Mccoy, Payne and Huber",FALSE
+105,Shoulder Haircare,beauty,Haircare,528.06,251.78,Cline Group,FALSE
+106,These Haircare,beauty,Haircare,252.84,117.66,"Thomas, Nelson and Ramos",Yes
+107,Job Makeup,beauty,Makeup,376.14,244.49,"Abbott, Garcia and Perez",
+108,General Makeup,Beauty,Makeup,242.90,151.73,"Lopez, Foster and Bennett",TRUE
+109,Evidence Makeup,beauty,Makeup,579.16,NULL,"Henderson, Alvarado and Williamson",0
+110,Whole Makeup,beauty,Makeup,193.85,$141.24,Hale PLC,FALSE
+111,Individual Makeup,Beauty,Makeup,291.81,N/A,"Montgomery, Alexander and Conrad",
+112,I Fragrance,Beauty,Fragrance,183.26,113.03,"Edwards, Stafford and Davis",
+113,Grow Fragrance,beauty,Fragrance,191.78,101.39,"green, edwards and keller",TRUE
+114,Bring Fragrance,Beauty,Fragrance,403.81,$190.13,Austin Ltd,Yes
+115,Place Fragrance,beauty,Fragrance,302.06,221.59,"White, Kirk and Norman",TRUE
+116,Herself Fragrance,BEAUTY,Fragrance,359.58,180.80,TERRY GROUP,1
+117,Visit Action Figures,toys,Action Figures,$143.10,66.08,"Williams, Wilson and Wells",TRUE
+118,Knowledge Action Figures,Toys,Action Figures,306.50,154.20,"Chandler, Perez and Carlson",No
+119,Soldier Action Figures  ,Toys ,Action Figures,528.68,257.83 JOD,"Aguirre, Clark and Edwards",Yes
+120,Item Action Figures,Toys,Action Figures,201.77,NULL,"Holland, Garcia and Riley",FALSE
+121,Generation Action Figures,toys,Action Figures,317.45,149.92,Greene-Gray,TRUE
+122,Account Action Figure  ,Toys,Action Figures,125.50,77.51,Johnson Ltd,Yes
+123,Rather Board Games,toys,Board Games,151.87,77.49,"Turner, Taylor and Moreno",Yes
+124,Partner Board Games,Toys ,Board Games,,80.21,White-Carter,FALSE
+125,However Board Games,Toys ,Board Games,552.19,251.81,Fleming-Hill,0
+126,Weight Board Game,toys,Board Games,$200.63,N/A,"Hensley, Austin and Reynolds",FALSE
+127,Item Puzzles,Toys,Puzzles,587.72,270.41,Murphy Group,1
+128,Everybody Puzzles,toys,Puzzles,369.54,NaN,Smith LLC,No
+129,Forward Puzzle,Toys ,Puzzles,535.98,266.09,Grimes-Burns,
+130,Level Puzzles,Toys ,Puzzles,59.94,34.96,Medina-Johnson,
+131,Little Puzzles,Toys ,Puzzles,$396.05,286.47,Tate-Oconnell,
+132,Dark Outdoor Toys,toys,Outdoor Toys,82.53,58.35 JOD,"Trujillo, Johnson and Anderson",0
+133,Tough Outdoor Toys  ,Toys,Outdoor Toys,,223.88,Scott-Sullivan,1
+134,  I Outdoor Toys,toys,Outdoor Toys,40.00,29.02,DICKERSON AND SONS,FALSE
+135,Speech Outdoor Toys  ,Toys,Outdoor Toys,18.43,-,Rogers-Roberts,Yes
+136,Boy Outdoor Toys,Toys ,Outdoor Toys,314.21,165.61,Chen-Munoz,1
+137,Nation Smartphones ,Electronics,Smartphones,307.70 JOD,148.46,Burnett Ltd,FALSE

@@ -1,0 +1,92 @@
+employee_id,full_name,store_id,role,hire_date,salary,email
+1,  Anthony Gonzalez,3,Cashier,10/26/2024,1397.19,anthony.gonzalez66@outlook.com
+2, Amy Robinson ,9,cashier,"July 07, 2024",905.57,-
+3,Lisa Smith,5,Assistant Manager,2025-08-07,1269.65,lisa.smith624@yahoo.com
+4,Helen Peterson,13,Assistant Manager,07-05-2022,916.35,helen.peterson852@hotmail.com
+5, susan rogers ,2,SALES ASSOCIATE,01/12/2022,945.72,susan.rogers272@outlook.com
+6,Colin Abbott,12,cashier,2024/08/03,1143.03,colin.abbott254 at yahoo.com
+7,  Lindsay Blair,4,Cashier,01 Apr 2024,591.62,lindsay.blair498@yahoo.com
+8,Teresa Gray,10,SALES ASSOCIATE,30/04/2024,1276.5,teresa.gray434@outlook.com
+9,maria montgomery,11,SALES ASSOCIATE,2025-11-17,1057.03,maria.montgomery433@yahoo.com
+10,Barbara Bush,8,Cashier,2021-10-18,,barbara.bush949@yahoo.com
+11,Jeremy Roberts,7,Cashier,19/12/2021,574.43,jeremy.roberts434@outlook.com
+12,  Jesse Garcia,10,Cashier,"December 16, 2022",1367.14,
+13,Cynthia Diaz,4,Assistant Manager,06/03/2023,-1058.97,cynthia.diaz674@hotmail.com
+14,Jason Adams  ,4,Inventory Clerk,03-04-2026,NaN,jason.adams577gmail.com
+15,Deborah Lynch,6,Store Manager,04-06-2022,489.08,deborah.lynch627@gmail.com
+16,  Jessica Martin,2,Cashier,2023/06/20,1328.34,jessica.martin735@hotmail.com
+17,Veronica Bowman,8,Cashier,2024-05-09,N/A,veronica.bowman790@yahoo.com
+18,Gabrielle Cameron,9,Cashier,2025-06-13,1128.29,gabrielle.cameron37@hotmail.com
+19,Jeremy Johnson,5,SALES ASSOCIATE,2023-02-23,483.82,jeremy.johnson106@hotmail.com
+20,Joseph Clark,10,Sales Associate,14 Apr 2026,776.7,joseph.clark423@gmail.com
+21,Nancy Edwards,7,SALES ASSOCIATE,11/05/2024,1171.51,nancy.edwards894@gmail.com
+22,Randall Rocha,8,SALES ASSOCIATE,11/12/2023,1207.42,randall.rocha286@gmail.com
+23,Joseph Wright,7,Store Manager,2024-05-17,1023.56,invalid_email
+24,Jose Richards,6,Cashier,22/01/2026,none,-
+25,Reginald Robinson,10,cashier,23-07-2026,1316.81,reginald.robinson714@hotmail.com
+26,William Davis,7,Assistant Manager,"October 21, 2021",N/A,william.davis216@outlook.com
+27,Daniel Burton,8,Inventory Clerk,13 Jul 2025,688.36,daniel.burton87@hotmail.com
+28,Robert Brown,99,Store Manager,06/24/2023,none,robert.brown626@gmail.com
+29,Wendy Rice,12,Sales Associate,06/05/2026,-954.45,wendy.rice789@gmail.com
+30,  Michelle Smith,12,SALES ASSOCIATE,2025-03-04,1194.32,michelle.smith573@hotmail.com
+31,Erin Herrera,12,Assistant Manager,26/11/2022,993.28,erin.herrera266@yahoo.com
+32,Danielle Rodriguez,8,Cashier,2023/09/29,1166.56,danielle.rodriguez554@gmail.com
+33,Shawn Mckay,12,Store Manager,"December 13, 2025",1078.65,shawn.mckay399@gmail.com
+34,Jose Mason,1,Inventory Clerk,18 Jun 2022,749.4,jose.mason753@yahoo.com
+35,Rita Harrell,7,Inventory Clerk,2023/01/23,859.92,rita.harrell638@gmail.com
+36,Danielle Lynch  ,2,Cashier,02-05-2022,1046.15,danielle.lynch780@outlook.com
+37,KATHRYN RYAN,99,Store Manager,06/18/2025,792.64,kathryn.ryan773@gmail.com
+38,Alyssa Smith,3,Cashier,"March 11, 2023",371.4,alyssa.smith378@yahoo.com
+39,Andrew Hickman,13,Cashier,N/A,1104.28,andrew.hickman385@outlook.com
+40, Marie Parker ,99,SALES ASSOCIATE,2021/11/09,971.7,marie.parker802@gmail.com
+41,Natalie Arroyo  ,9,Inventory Clerk,2021-12-30,739.1,natalie.arroyo471@yahoo.com
+42,Todd Jones,5,SALES ASSOCIATE,16/05/2025,1363.75,none
+43,Katie Anderson,8,Store Manager,2023-12-12,606.06,katie.anderson364@hotmail.com
+44,Andrea Baker,5,Sales Associate,2025-12-06,1086.24,andrea.baker247@outlook.com
+45,Rodney Lewis,2,Sales Associate,07-04-2024,1182.58,rodney.lewis353@outlook.com
+46,Jessica Harris,8,Cashier,2023/02/16,719.4,jessica.harris781@yahoo.com
+47,Wanda Santos,10,Store Manager,2023-10-05,640.32,wanda.santos310@gmail.com
+48,Zachary Martinez,1,Sales Associate,2022/09/10,397.79,zachary.martinez588@hotmail.com
+49,Matthew Chapman,1,Cashier,20 Sep 2022,543.58,matthew.chapman703@gmail.com
+50, Jeffrey Jones ,2,Assistant Manager,"September 22, 2024",1346.58,jeffrey.jones462@outlook.com
+51,Jeremy Whitehead,10,cashier,2025-11-13,800.27,jeremy.whitehead677@gmail.com
+52,Chad Young,1,Inventory Clerk,30-11-2024,428.82,chad.young881outlook.com
+53,Jason Anderson,11,Sales Associate,01/04/2026,1177.22,jason.anderson273yahoo.com
+54,Ashley Kennedy,99,Cashier,29/06/2025,974.8,ashley.kennedy513@outlook.com
+55,Lindsey Lee,12,Cashier,01/20/2022,1283.89,lindsey.lee974@gmail.com
+56,Ryan Henderson,1,Assistant Manager,2023/11/27,632.99,ryan.henderson447@outlook.com
+57,Jessica Nunez,6,Store Manager,29/06/2026,778.77,jessica.nunez834@gmail.com
+58,Corey Powell,13,Cashier,2023/04/07,689.44,corey.powell531@hotmail.com
+59,Michelle Wright,1,Store Manager,09/07/2022,-,michelle.wright624@yahoo.com
+60,Shane Henderson,7,Inventory Clerk,2022-12-17,364.36,shane.henderson299@hotmail.com
+61,John Leblanc,8,Assistant Manager,"October 14, 2023",845.83,john.leblanc792@outlook.com
+62,Michelle Pierce,1,Assistant Manager,"October 27, 2021",630.53,michelle.pierce552@outlook.com
+63,Yvette Huff,8,cashier,06/01/2026,920.6,yvette.huff45@hotmail.com
+64,Sara Allison,7,cashier,05/26/2022,-1201.98,sara.allison605@hotmail.com
+65,  Todd Lewis,9,SALES ASSOCIATE,2023/07/29,812.32,todd.lewis272@hotmail.com
+66,Brian Gray,6,Inventory Clerk,01-07-2026,434.33,brian.gray555@gmail.com
+67,Joseph Bowers,5,Inventory Clerk,2023-11-05,1068.62,
+68,Rodney Bernard,6,Inventory Clerk,"July 19, 2026",658.04,rodney.bernard625@outlook.com
+69,Angela Higgins,3,Inventory Clerk,05-05-2022,1308.47,ANGELA.HIGGINS295@YAHOO.COM
+70,Kenneth Novak,7,Store Manager,06/19/2024,664.11,kenneth.novak391@hotmail.com
+71,Amy Adkins,99,Assistant Manager,08 Nov 2021,NaN,amy.adkins764@outlook.com
+72,Breanna Shaw,4,cashier,10/31/2025,1164.53,breanna.shaw676@yahoo.com
+73,Eric Yu  ,5,Sales Associate,2021-12-20,1028.66,eric.yu206@yahoo.com
+74,Jacob Larson,9,Store Manager,11 Dec 2024,734.15,jacob.larson892@hotmail.com
+75,Joe Wilson,13,cashier,2026/01/08,429.06,NaN
+76,John Wheeler,6,Assistant Manager,31/08/2024,479.77,invalid_email
+77,Robert Silva,11,Store Manager,2024/03/08,990.59,robert.silva312@outlook.com
+78,Sarah Harris,7,cashier,2025/02/24,914.42,sarah.harris159@outlook.com
+79,john foster,5,Sales Associate,05 Dec 2024,996.43,JOHN.FOSTER924@HOTMAIL.COM
+80,  Kevin Stewart,99,cashier,"April 30, 2025",478.27,invalid_email
+81,Charles Ellis,99,SALES ASSOCIATE,NULL,576.75,charles.ellis818@yahoo.com
+82,Wendy Jones,6,Store Manager,2022-08-20,488.39,wendy.jones539@gmail.com
+83,Joseph Mahoney,9,Sales Associate,"December 22, 2025",1166.92,joseph.mahoney534@hotmail.com
+84,Natasha Wood,8,Cashier,11/05/2022,413.87,NATASHA.WOOD330@YAHOO.COM
+85,Martha Warner,12,Assistant Manager,17-08-2024,964.63,martha.warner719@gmail.com
+86,Vanessa Valdez,12,Sales Associate,10/08/2021,1157.41,vanessa.valdez98@hotmail.com
+87,Lisa Evans,3,Cashier,20 Nov 2024,743.02,lisa.evans382@yahoo.com
+88,Sheila Taylor,6,SALES ASSOCIATE,2022/02/22,939.67,sheila.taylor53@hotmail.com
+89,Daniel Tran,4,SALES ASSOCIATE,2022-12-06,956.81,daniel.tran286@yahoo.com
+90,Cassandra Robbins,99,Assistant Manager,2022-08-02,1373.27,cassandra.robbins30@yahoo.com
+11,Jeremy Roberts,7,Cashier,19/12/2021,574.43,jeremy.roberts434@outlook.com

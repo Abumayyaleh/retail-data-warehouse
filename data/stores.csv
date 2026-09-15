@@ -1,0 +1,14 @@
+store_id,store_name,city,country,region,open_date,store_size_sqm
+1,  Amman Central Branch,Amman,Jordan,MENA,"October 07, 2023",
+2,Zarqa Mall Branch,Zarqa,JO,Middle East,2020/09/10,1500
+3,Irbid Outlet Branch,Irbid,Jordan,Middle East,2021/12/11,800
+4,Dubai Mall Branch,Dubai,UAE,MENA,07/09/2021,250
+5,Abu Dhabi Downtown Branch,Abu Dhabi,uae,MENA,01/04/2024,250
+6,Riyadh Plaza Branch,Riyadh,KSA,MENA,2023-12-14,1500
+7,Jeddah Downtown Branch,Jeddah,Saudi Arabia,,11-01-2025,800
+8,Cairo Downtown Branch,Cairo,egypt,mena,2021/01/01,1500
+9,Amman Plaza Branch,Amman,JORDAN,Middle East,05/09/2022,800
+10,Zarqa Plaza Branch,Zarqa,Jordan,Middle East,19 Sep 2020,250
+11,Irbid Outlet Branch,Irbid,JO,mena,08/30/2021,1500
+12,  Dubai Outlet Branch,Dubai,United Arab Emirates,,"February 04, 2023",800
+13,Dubai Mall Branch,Dubai,UAE,MENA,07/09/2021,250
