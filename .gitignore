@@ -1,0 +1,22 @@
+# Local source data and database exports
+/data/*
+!/data/README.md
+*.dump
+*.backup
+*.log
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+.pgpass
+pgpass.conf
+.pg_service.conf
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+__pycache__/

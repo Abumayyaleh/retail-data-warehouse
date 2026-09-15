@@ -1,0 +1,10 @@
+-- Run with psql from the repository root, using --single-transaction.
+-- Replaces all Bronze source data; the warehouse setup must already exist.
+TRUNCATE TABLE bronze.order_items, bronze.orders, bronze.employees,
+               bronze.products, bronze.stores, bronze.customers;
+\copy bronze.customers FROM 'data/customers.csv' WITH (FORMAT CSV, HEADER TRUE)
+\copy bronze.employees FROM 'data/employees.csv' WITH (FORMAT CSV, HEADER TRUE)
+\copy bronze.products FROM 'data/products.csv' WITH (FORMAT CSV, HEADER TRUE)
+\copy bronze.stores FROM 'data/stores.csv' WITH (FORMAT CSV, HEADER TRUE)
+\copy bronze.orders FROM 'data/orders.csv' WITH (FORMAT CSV, HEADER TRUE)
+\copy bronze.order_items FROM 'data/order_items.csv' WITH (FORMAT CSV, HEADER TRUE)
