@@ -1,5 +1,5 @@
 -- =============================================================================
--- RETAIL DATA WAREHOUSE — FINAL SIMPLIFIED PORTFOLIO VERSION
+-- RETAIL DATA WAREHOUSE
 -- Engine: PostgreSQL
 -- Architecture: Bronze -> Silver -> Gold
 --
