@@ -148,7 +148,3 @@ Violation queries should return zero rows. Counts and missing-value summaries re
 5. Add durable run logs, row-count reconciliation, scheduled execution, automated integration tests, and measured performance tuning.
 6. Add licensed synthetic sample data and a BI dashboard with documented metric definitions.
 
-## Publish to GitHub
-
-Repository name: **`retail-data-warehouse`**. Follow the [exact PowerShell publishing commands](docs/publishing.md) for `Abumayyaleh/retail-data-warehouse`.
-
