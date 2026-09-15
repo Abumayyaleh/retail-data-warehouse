@@ -25,7 +25,6 @@ retail-data-warehouse/
 ├── sql/
 │   ├── retail_data_warehouse.sql
 │   ├── load_bronze.psql
-│   └── quality_checks.sql
 ├── data/
 │   └── README.md
 └── docs/
